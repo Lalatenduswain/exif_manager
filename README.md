@@ -67,9 +67,3 @@ If you encounter any issues, please submit them on our [GitHub page](https://git
 ## Support or Contact
 
 Encountering issues? Don't hesitate to submit an issue on our [GitHub page](https://github.com/Lalatenduswain/exif_manager/issues).
-```
-
-### Notes:
-- Make sure to replace `exif_manager` with `+ScriptName` wherever applicable in the URL if needed.
-- You can customize the script name in the appropriate places.
-- You might also want to format the table of contents as necessary if you add more sections in the future.
